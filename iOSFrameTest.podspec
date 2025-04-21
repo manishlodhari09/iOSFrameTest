@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "iOSFrameTest"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "A sample iOS framework with a simple view controller."
   s.description  = "This framework provides a reusable SimpleViewController with a label and button."
   s.homepage     = "https://github.com/manishlodhari09/SampleFramework"
